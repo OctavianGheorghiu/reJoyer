@@ -1,0 +1,272 @@
+.app-component-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.app-component-container1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 10px;
+}
+.app-component-form-root {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  height: auto;
+  display: flex;
+  padding: var(--dl-space-space-oneandhalfunits);
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.app-component-form {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.app-component-title-root {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.app-component-text {
+  text-align: center;
+}
+.app-component-have-an-account-login {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: flex-start;
+}
+.app-component-form1 {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.app-component-name {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.app-component-textinput {
+  width: 100%;
+  border-color: var(--dl-color-theme-primary1);
+  background-color: transparent;
+}
+.app-component-email {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.app-component-textinput1 {
+  width: 100%;
+  border-color: var(--dl-color-theme-primary1);
+  background-color: transparent;
+}
+.app-component-phone {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.app-component-textinput2 {
+  width: 100%;
+  border-color: var(--dl-color-theme-primary1);
+  background-color: transparent;
+}
+.app-component-county {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.select-county{
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 1px;
+  width: 100%;
+}
+.app-component-ul {
+  border-color: var(--dl-color-theme-primary1);
+  border-width: 1px;
+  margin-bottom: 0px;
+}
+.app-component-password {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.app-component-textinput3 {
+  width: 100%;
+  border-color: var(--dl-color-theme-primary1);
+  background-color: transparent;
+}
+.app-component-container2 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.app-component-text15 {
+  font-size: 16px;
+  text-align: left;
+}
+.app-component-button {
+  width: 100%;
+}
+.app-component-text18 {
+  text-align: center;
+}
+.app-component-have-an-account-login1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: flex-start;
+}
+.app-component-container3 {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-self: center;
+  min-height: 600px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.app-component-list {
+  gap: var(--dl-space-space-unit);
+  height: auto;
+  display: flex;
+  z-index: 100;
+  align-self: stretch;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
+}
+.app-component-text20 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.app-component-list-item {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.app-component-text21 {
+  text-align: center;
+}
+.app-component-list-item1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.app-component-text22 {
+  text-align: center;
+}
+.app-component-list-item2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.app-component-text23 {
+  text-align: center;
+}
+.app-component-list-item3 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.app-component-text24 {
+  text-align: center;
+}
+.app-component-image {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+.app-component-container4 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255,255,255,0.5);
+}
+@media(max-width: 991px) {
+  .app-component-form-root {
+    width: 100%;
+    padding: var(--dl-space-space-fourunits);
+  }
+  .app-component-container3 {
+    width: 100%;
+    height: auto;
+    min-height: 100px;
+  }
+}
+@media(max-width: 767px) {
+  .app-component-text20 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .app-component-form-root {
+    padding: var(--dl-space-space-oneandhalfunits);
+  }
+  .app-component-text15 {
+    text-align: center;
+  }
+  .app-component-button {
+    width: 100%;
+  }
+}
